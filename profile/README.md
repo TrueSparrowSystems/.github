@@ -4,6 +4,16 @@ We are a boutique product development studio that has been around for 15 years. 
 # Open Source Contributions
 We not only help our clients take things from 0 to 1, but we also enjoy giving back to the community through our contributions to Open Source. Here are some of our Open Source contributions.
 
+## NFT or NOT
+NFT or NOT is a social experiment built on Lens Protocol, transforming the 2000s craze Hot-or-Not into a thrilling showdown of AI-generated images based on community prompts. Users can collect NFTs for a fee to support creators, and the highest-voted submission makes it to the Hall of Flame.
+
+Repo(s): [non-backend](https://github.com/TrueSparrowSystems/nft-or-not-be), [non-frontend](https://github.com/TrueSparrowSystems/nft-or-not-fe)
+
+## Whisper Chain
+Whisper Chain is a fun social experiment built on Lens Protocol, where users can experience the thrill of chain mutations. It is based on the classic game of Chinese whispers or telephone, where the objective is to observe how much the original seed image changes as it gets passed along the chain.
+
+Repo(s): [whisper-chain-be](https://github.com/TrueSparrowSystems/whisper-chain-be), [whisper-chain-fe](https://github.com/TrueSparrowSystems/whisper-chain-fe)
+
 ## Canary
 Canary is a cross-platform mobile application that allows users to discover and save content via Twitter APIs without requiring an account or login information. All data is private and stored on the user's device without tracking parameters.
 
@@ -18,16 +28,6 @@ Repo(s): [slackmin](https://github.com/TrueSparrowSystems/slackmin)
 AppLogger is a React Native mobile application framework that reduces QA issue-reporting time and developer debugging time. It provides a web interface for logs generated and user steps taken on a device using the device's IP address. Users can track their sessions and logs, as well as upload, download, and delete them.
 
 Repo(s): [applogger](https://github.com/TrueSparrowSystems/applogger)
-
-## NFT or NOT
-NFT or NOT is a social experiment built on Lens Protocol, transforming the 2000s craze Hot-or-Not into a thrilling showdown of AI-generated images based on community prompts. Users can collect NFTs for a fee to support creators, and the highest-voted submission makes it to the Hall of Flame.
-
-Repo(s): [non-backend](https://github.com/TrueSparrowSystems/nft-or-not-be), [non-frontend](https://github.com/TrueSparrowSystems/nft-or-not-fe)
-
-## Whisper Chain
-Whisper Chain is a fun social experiment built on Lens Protocol, where users can experience the thrill of chain mutations. It is based on the classic game of Chinese whispers or telephone, where the objective is to observe how much the original seed image changes as it gets passed along the chain.
-
-Repo(s): [whisper-chain-be](https://github.com/TrueSparrowSystems/whisper-chain-be), [whisper-chain-fe](https://github.com/TrueSparrowSystems/whisper-chain-fe)
 
 ## UniCache
 UniCache is an open-source NPM package that offers a unified and consistent interface for Memcached, Redis, and in-memory caching. It simplifies the interaction with multiple caching engines, reducing development time and effort. UniCache is also fully compatible with AWS ElastiCache for Memcached and Redis.
