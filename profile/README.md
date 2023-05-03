@@ -49,6 +49,15 @@ Base is a collection of frequently used functionalities in True Sparrow reposito
 
 Repo(s): [base](https://github.com/TrueSparrowSystems/base)
 
+## OpenST and OST
+OpenST is an open-source framework for deploying scalable token economies. The project has released two protocols:
+- OpenST for minting Brand Tokens (utility tokens) on layer-2 Ethereum blockchains by staking ERC-20 assets (value tokens) on layer-1 Ethereum
+- Mosaic for proving layer-2 transactions at scale back on layer-1
+
+Furthermore, OST technology enables developers to seamlessly embed Ethereum wallets into mainstream applications to benefit from zero-fee micro-transactions.
+
+Repo(s): [OpenST](https://github.com/orgs/OpenST/repositories), [OST](https://github.com/orgs/ostdotcom/repositories)
+
 # Popular Open Source Libraries We Contributed To
 - React Native
     - [Feature: Added enterKeyHint prop to textInput](https://github.com/facebook/react-native/pull/34482)
