@@ -65,11 +65,33 @@ Repo(s): [OpenST](https://github.com/orgs/OpenST/repositories), [OST](https://gi
     - [Feature: Added aria-modal as alias for accessibilityViewIsModal(iOS)](https://github.com/facebook/react-native/pull/34506)
     - [Feature: Added crossOrigin, referrerPolicy, srcSet, width, height and src props to the Image Component.](https://github.com/facebook/react-native/pull/34481)
     - [Feature: Added accessibility value aliases](https://github.com/facebook/react-native/pull/34535)
-- React Native Paper
-    - [Fix: Button ripple radius](https://github.com/callstack/react-native-paper/pull/3388)
+    - [Extracted IncorrectModuleRegistryCallTypeParameterParserError to throwIfIncorrectModuleRegistryCallTypeParameterParserError](https://github.com/facebook/react-native/pull/34941)
+- The Algorithms - JavaScript
+    - [Added new algorithm: first unique char in a string](https://github.com/TheAlgorithms/JavaScript/pull/1103)
+    - [Added new algorithm: countSubstrings function implementation](https://github.com/TheAlgorithms/JavaScript/pull/1091)
+    - [Added new algorithm: find the middle of linked-list](https://github.com/TheAlgorithms/JavaScript/pull/1096)
+    - [Bug fix: Cycledetection.js and added tests](https://github.com/TheAlgorithms/JavaScript/pull/1099)
+    - [Bug fix: RotateListRight.js and added tests](https://github.com/TheAlgorithms/JavaScript/pull/1101)
 - Sanitize HTML
     - [Handling of invalid markup: closing tags without having opening tags](https://github.com/apostrophecms/sanitize-html/pull/568)
     - [For allowedTags, stop treating falsy values other than false, same as false.](https://github.com/apostrophecms/sanitize-html/pull/577)
     - [Upgrades htmlparser2 to new major version ^8.0.0.](https://github.com/apostrophecms/sanitize-html/pull/573)
 - MLflow
     - [Added MlflowException on top level](https://github.com/mlflow/mlflow/pull/6687)
+    - [Used tuple instead a comma-separated string in pytest.mark.parametrize](https://github.com/mlflow/mlflow/pull/6623)
+    - [Added padding to artifact text viewer](https://github.com/mlflow/mlflow/pull/6778)
+- FX-FOTOS
+    - [Single image viewer feature](https://github.com/functionland/fx-fotos/pull/239)
+    - [Single image viewer gesture improvements](https://github.com/functionland/fx-fotos/pull/272)
+- React Native Paper
+    - [Fix: Button ripple radius](https://github.com/callstack/react-native-paper/pull/3388)
+- Prefect
+    - [Used anyio.abc full namespace instead of from imports](https://github.com/PrefectHQ/prefect/pull/6784)
+- Luxon
+    - [Bug fix: DateTime.diff produces wrong results with unit quarter](https://github.com/moment/luxon/pull/1279)
+- GO Package Validator
+    - [Bug fix: Fixed boolean validation to handle bool kind](https://github.com/go-playground/validator/pull/988)
+- Croc
+    - [Added zstd as a compression algorithm](https://github.com/schollz/croc/pull/506)
+- Mimetype
+    - [Added support for JXS file format](https://github.com/gabriel-vasile/mimetype/pull/319)
