@@ -4,6 +4,10 @@ True Sparrow is a boutique product development studio providing software enginee
 # Our Open Source Products
 We not only help our clients take things from 0 to 1, but we also enjoy giving back to the community through our contributions to Open Source. Here are some of our Open Source contributions.
 
+## Needle in a Haystack
+We are actively contributing, enhancing and co-maintaining Needle in a Haystack (NIAH) along with [Greg Kamradt](https://github.com/gkamradt) (original author) and [Pavel Král](https://github.com/pavelkraleu). NIAH is a technique used to benchmark Large Language Models (LLMs). In this technique, the model's objective is to locate particular information (referred to as the "needle") within a broader context (referred to as the "haystack"). Initially introduced by Greg for GPT-4 and Claude 2.1, this evaluation has garnered widespread recognition, being embraced by Google for [Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/#performance:~:text=Gemini%201.5%20Pro%20maintains,as%201%20million%20tokens) and by Anthropic for [Claude 3](https://www.anthropic.com/news/claude-3-family#:~:text=the%20'needle%20in%20a%20haystack'%20(niah)%20evaluation%20measures%20a%20model's%20ability%20to%20accurately%20recall%20information%20from%20a%20vast%20corpus%20of%20data).
+
+Repo(s): [Needle in a Haystack](https://github.com/gkamradt/LLMTest_NeedleInAHaystack)
 ## Prompt Evaluator
 The Prompt Evaluator is a test suite that helps evaluate prompt templates and AI models. It enables Product Managers and Developers to create prompt templates with custom variables, define test cases with specific variable values and expected responses, and match the generated responses exactly or fuzzily. The suite also allows for comparing GraphQL query responses and measuring the accuracy of prompt templates against different AI models. By leveraging the capabilities of the Prompt Evaluator, Product Managers and Developers can make informed decisions, iterate on their prompt designs, and enhance the overall quality and accuracy of their AI-powered applications.
 
