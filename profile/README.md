@@ -4,6 +4,12 @@ True Sparrow is a boutique product development studio providing software enginee
 # Our Open Source Products
 We not only help our clients take things from 0 to 1, but we also enjoy giving back to the community through our contributions to Open Source. Here are some of our Open Source contributions.
 
+## Sirji
+Sirji is a framework for creating and running custom AI agents to help developers with their daily tasks. Implemented as a VS Code extension, Sirji offers an interactive chat interface within the IDE, utilizing features like the Editor, Terminal, and Project Explorer. A Custom Agent is a modular AI component that performs specific tasks based on predefined pseudocode. Pseudocode is written in plain English, reflecting the developer's understanding of the repository's architecture, design patterns, and conventions. Pseudocode helps Sirji execute tasks as instructed.
+
+Important Links: [GitHub Repo](https://github.com/sirji-ai/sirji), [Sirji Docs](https://docs.sirji.ai/), [Sirji VS Code Extension](https://marketplace.visualstudio.com/items?itemName=TrueSparrow.sirji), [Blogs](https://truesparrow.com/blog/tag/sirji/)
+
+
 ## Needle in a Haystack
 We are actively contributing, enhancing and co-maintaining Needle in a Haystack (NIAH) along with [Greg Kamradt](https://github.com/gkamradt) (original author). NIAH is a technique used to benchmark Large Language Models (LLMs). In this technique, the model's objective is to locate particular information (referred to as the "needle") within a broader context (referred to as the "haystack"). Initially introduced by Greg for GPT-4 and Claude 2.1, this evaluation has garnered widespread recognition, being embraced by Google for [Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/#performance:~:text=Gemini%201.5%20Pro%20maintains,as%201%20million%20tokens) and by Anthropic for [Claude 3](https://www.anthropic.com/news/claude-3-family#:~:text=the%20'needle%20in%20a%20haystack'%20(niah)%20evaluation%20measures%20a%20model's%20ability%20to%20accurately%20recall%20information%20from%20a%20vast%20corpus%20of%20data).
 
